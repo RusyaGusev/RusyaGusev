@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RusyaGusev
+- 👋 Hi, I’m @wrangrgroup
 - 👀 I’m interested in coding and a succseful life
 - 🌱 I’m currently learning python3 
 - 💞️ I’m looking to collaborate on idk

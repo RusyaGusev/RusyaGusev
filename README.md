@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RusyaGusev
-- 👀 I’m interested in coding and a succseful life
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning python3 
 - 💞️ I’m looking to collaborate on Pyhon
 - 📫 How to reach me 
